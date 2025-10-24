@@ -2,14 +2,18 @@
 __pycache__/
 *.pyc
 
-# Virtual Environment - VERY IMPORTANT
+# Virtual Environment
 .venv/
 venv/
 env/
 
 # Secrets file
 .env
+.env.*
 *.env
+
+# Repo Dumps
+all_code.txt
 
 # IDE and OS specific files
 .vscode/
